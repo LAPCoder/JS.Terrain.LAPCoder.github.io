@@ -1,2 +1,2 @@
 build/* linguist-detectable=false
-jsm/    linguist-detectable=false
+jsm/*/*    linguist-detectable=false

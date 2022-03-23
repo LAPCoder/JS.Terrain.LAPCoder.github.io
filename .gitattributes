@@ -1,2 +1,1 @@
-build/* linguist-detectable=false
-jsm/*   linguist-detectable=false
+*.js linguist-detectable=false

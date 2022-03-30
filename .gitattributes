@@ -1,1 +1,2 @@
-*.js linguist-detectable=true
+*.js linguist-detectable=false
+jsm/libs/*.js linguist-detectable=true
